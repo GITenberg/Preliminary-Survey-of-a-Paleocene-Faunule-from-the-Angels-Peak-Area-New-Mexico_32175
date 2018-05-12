@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35710'
     url: http://www.gutenberg.org/2009/agents/35710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32175#Preliminary-Survey-of-a-Paleocene-Faunule-from-the-Angels-Peak-Area-New-Mexico
 gutenberg_issued: '2010-04-29'
 gutenberg_type: Text
 identifiers:
